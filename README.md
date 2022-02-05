@@ -1,7 +1,3 @@
-<h1 align="center">Luna Rush Bot</h1>
-<h3>Se este projeto lhe ajudou de alguma forma, por favor considere contribuir:</h3>
-<h4>Carteira Binance(aceita BNB/BUSD/LUS): 0x8d31e8F501574Bcc1ab74EbeB9cD663751517512</h4>
-<br>
 <h1 align="center">⚠ AVISOS ⚠</h1>
 <li>Esse projeto foi inspirado em um projeto semelhante, porém para bombcrypto: <a href="https://github.com/mpcabete/bombcrypto-bot">https://github.com/mpcabete/bombcrypto-bot</a></li>
 <li>Não me responsabilizo por eventuais penalidades ou banimentos, use por sua conta e risco</li>
@@ -29,4 +25,4 @@
 <li>Após atualizar a página o bot faz login na Metamask automaticamente</li>
 <li>Clica em caçar chefe</li>
 <li>Se tiver energia ele irá começar a jogar</li>
-<li>Ele atualiza a página a cada 70 minutos</li>
+<li>Ele atualiza a página a cada 90 minutos</li>
