@@ -1,0 +1,5 @@
+mss==6.1.0
+numpy==1.21.4
+opencv-python==4.5.4.60
+PyAutoGUI==0.9.53
+PyYAML==6.0

@@ -1,0 +1,14 @@
+#tempo de espera para clicar em caçar chefe na tela inicial
+tempo_fases: 2
+#tempo de espera para clicar no boss 1
+tempo_boss: 2
+#tempo para dar o primeiro click para iniciar jogo após clicar em "caçar chefe"
+tempo_comecar_jogo: 10
+#tempo de espera para clicar na tela apos abrir o baú
+tempo_abrir_bau: 5
+#tempo de espera para começar o programa após inicio
+tempo_comecar_programa: 5
+#tempo de espera para continuar o programa após fazer o login
+tempo_login: 10
+#tempo de espera a cada clique
+tempo_clique: 1
